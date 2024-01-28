@@ -63,9 +63,9 @@ const generateItemContainerHtml = () => {
         <div class="profile-image-container">
             <img
             class="profile-image"
-            src="https://i.pravatar.cc/300/${i}"
-            alt=""
-            width="300px"
+            src="https://i.pravatar.cc/75/${i}"
+            alt="profile pic"
+            width="75px"
             height="auto"
             />
             <span class="status ${data[i].status}"></span>
